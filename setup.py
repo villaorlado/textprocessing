@@ -7,8 +7,10 @@ Text analysis tools for the Computers and the Humanities Course
 
 required = [
     "pandas",
-    "opencv-python",
-    "torchvision"
+    "statsmodels",
+    "seaborn",
+    "matplotlib",
+    "sklearn"
 ]
 
 setup(
